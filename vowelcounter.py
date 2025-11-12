@@ -30,3 +30,9 @@ for letter in a:
         vowel_count+=1
 
 print(f"no of vowels = {vowel_count}")
+
+import time
+for i in range(10):
+    print(i)
+    time.sleep(1)
+    
